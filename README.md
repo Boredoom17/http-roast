@@ -6,8 +6,6 @@
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![CLI](https://img.shields.io/badge/CLI-Tool-black?style=for-the-badge&logo=gnometerminal&logoColor=white)]()
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)]()
-[![Release](https://img.shields.io/github/v/release/Boredoom17/http-roast?style=for-the-badge)](https://github.com/Boredoom17/http-roast/releases)
 
 Point it at any URL. Get a brutal, honest breakdown of its HTTP performance and security headers.
 
